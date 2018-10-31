@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 ul {
     list-style: none;
 }
@@ -5,3 +9,4 @@ ul {
 header {
     background-color: #f3f00b;
 }
+
