@@ -1,12 +1,38 @@
 body {
     margin: 0;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
 }
 
 ul {
     list-style: none;
+    padding: 5px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+i {
+    padding: 0 2px;
+}
+
+h1 {
+    margin: 0;
+}
+
+a {
+    display: flex;
 }
 
 header {
     background-color: #f3f00b;
 }
 
+header li {
+    display: flex;
+    padding: 5px;
+}
+
+main {
+    padding: 10px;
+}
