@@ -26,6 +26,8 @@ a {
 
 header {
     background-color: #f3f00b;
+    position: fixed;
+    width: 100%;
 }
 
 header li {
@@ -34,5 +36,5 @@ header li {
 }
 
 main {
-    padding: 10px;
+    padding: 55px 10px 10px;
 }
