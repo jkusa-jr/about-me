@@ -38,3 +38,7 @@ header li {
 main {
     padding: 55px 10px 10px;
 }
+
+#gh-link {
+    display: inline-block;
+}
